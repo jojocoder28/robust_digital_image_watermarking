@@ -1,0 +1,5 @@
+Doctor: Jojo
+Hospital Code: ABC_HOSPITAL_64
+Image: Brain Cancer
+Patient Name: Temp Roy
+Copyright: Swarnadeep
