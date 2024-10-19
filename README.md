@@ -1,3 +1,6 @@
+The article is published in International Journal of Computers and Applications TJCA by Taylor and Francis Group
+Publication link : https://doi.org/10.1080/1206212X.2024.2408748
+##
 Digital watermarking is a crucial technique for embedding and extracting hidden information in digital media, including medical images. Medical image authentication plays a critical role in ensuring the integrity and authenticity of digital medical images, which are essential for accurate diagnosis, treatment planning, and research. The project focuses on the development of a robust watermarking algorithm for medical image authentication using 3 different methods, including techniques like DWT, SVD, Hamming code. The methods aim to embed an imperceptible watermark into medical images, which can later be extracted to verify the authenticity and integrity of the images.
 ##
 In conclusion, this project focused on developing various robust image watermarking techniques using Singular Value Decomposition (SVD) in the context of telemedicine. The rapid advancement of telemedicine has brought about the need for secure transmission and protection of medical images, ensuring patient privacy and data integrity.
